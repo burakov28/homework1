@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="DeleteAll">C</string>
+    <string name="DeleteOne">Del</string>
+    <string name="ParenthesisLeft">(</string>
+    <string name="ParenthesisRight">)</string>
+    <string name="MathPI">\u03c0</string>
+    <string name="MathSIN">sin</string>
+    <string name="sqrt">\u221a</string>
+    <string name="sqr">x^2</string>
+    <string name="power">x^y</string>
+    <string name="signPower">^</string>
+    <string name="division">/</string>
+    <string name="MathCOS">cos</string>
+    <string name="Number7">7</string>
+    <string name="Number8">8</string>
+    <string name="Number9">9</string>
+    <string name="Multiplication">*</string>
+    <string name="MathTAN">tan</string>
+    <string name="Number4">4</string>
+    <string name="Number5">5</string>
+    <string name="Number6">6</string>
+    <string name="Minus">-</string>
+    <string name="MathLN">ln</string>
+    <string name="Number1">1</string>
+    <string name="Number2">2</string>
+    <string name="Number3">3</string>
+    <string name="Plus">+</string>
+    <string name="MathLG">lg</string>
+    <string name="MathE">e</string>
+    <string name="Number0">0</string>
+    <string name="Point">.</string>
+    <string name="Equation">=</string>
+    <string name="Error">Error</string>
+</resources>
